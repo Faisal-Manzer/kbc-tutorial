@@ -1,0 +1,567 @@
+[
+  {
+    "question": "Who is the current Prime Minister of India as of 2024?",
+    "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Manmohan Singh"],
+    "answer": "Narendra Modi"
+  },
+  {
+    "question": "Which city is known as the Silicon Valley of India?",
+    "options": ["Mumbai", "Hyderabad", "Chennai", "Bengaluru"],
+    "answer": "Bengaluru"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Which river is known as the Ganga of the South?",
+    "options": ["Krishna", "Godavari", "Kaveri", "Tungabhadra"],
+    "answer": "Godavari"
+  },
+  {
+    "question": "Who is the current President of India as of 2024?",
+    "options": [
+      "Ram Nath Kovind",
+      "Pranab Mukherjee",
+      "Droupadi Murmu",
+      "Amit Shah"
+    ],
+    "answer": "Droupadi Murmu"
+  },
+  {
+    "question": "Which Indian state has the highest literacy rate?",
+    "options": ["Kerala", "Tamil Nadu", "Maharashtra", "Karnataka"],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Which Indian sportsperson is known as the 'Dhing Express'?",
+    "options": ["Hima Das", "P.V. Sindhu", "Mary Kom", "Saina Nehwal"],
+    "answer": "Hima Das"
+  },
+  {
+    "question": "In which year did India gain independence from British rule?",
+    "options": ["1945", "1947", "1950", "1952"],
+    "answer": "1947"
+  },
+  {
+    "question": "Which Indian state is famous for the Sun Temple at Konark?",
+    "options": ["Odisha", "Bihar", "West Bengal", "Assam"],
+    "answer": "Odisha"
+  },
+  {
+    "question": "Who is known as the 'Missile Man of India'?",
+    "options": [
+      "Vikram Sarabhai",
+      "Homi J. Bhabha",
+      "A. P. J. Abdul Kalam",
+      "S. N. Bose"
+    ],
+    "answer": "A. P. J. Abdul Kalam"
+  },
+  {
+    "question": "Which festival is known as the 'Festival of Lights'?",
+    "options": ["Holi", "Eid", "Diwali", "Christmas"],
+    "answer": "Diwali"
+  },
+  {
+    "question": "What is the official language of India?",
+    "options": ["Hindi", "English", "Bengali", "Tamil"],
+    "answer": "Hindi"
+  },
+  {
+    "question": "Which is the largest state in India by area?",
+    "options": ["Maharashtra", "Madhya Pradesh", "Uttar Pradesh", "Rajasthan"],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "Which organization is responsible for India's space program?",
+    "options": ["NASA", "DRDO", "ISRO", "BARC"],
+    "answer": "ISRO"
+  },
+  {
+    "question": "Who was the first Prime Minister of India?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "question": "Which Indian cricketer is known as the 'God of Cricket'?",
+    "options": [
+      "Sourav Ganguly",
+      "Virat Kohli",
+      "Sachin Tendulkar",
+      "Kapil Dev"
+    ],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "question": "Which Indian city is famous for its tea gardens?",
+    "options": ["Darjeeling", "Munnar", "Coorg", "Ooty"],
+    "answer": "Darjeeling"
+  },
+  {
+    "question": "Who is the current Chief Minister of Uttar Pradesh as of 2024?",
+    "options": [
+      "Yogi Adityanath",
+      "Akhilesh Yadav",
+      "Mayawati",
+      "Mulayam Singh Yadav"
+    ],
+    "answer": "Yogi Adityanath"
+  },
+  {
+    "question": "Which Indian state is the largest producer of spices?",
+    "options": ["Kerala", "Tamil Nadu", "Andhra Pradesh", "Karnataka"],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Which monument is known as the 'Symbol of Love'?",
+    "options": ["Qutub Minar", "Red Fort", "Taj Mahal", "India Gate"],
+    "answer": "Taj Mahal"
+  },
+  {
+    "question": "Who is the author of the book 'India 2020'?",
+    "options": [
+      "Chetan Bhagat",
+      "Arundhati Roy",
+      "A. P. J. Abdul Kalam",
+      "Kiran Desai"
+    ],
+    "answer": "A. P. J. Abdul Kalam"
+  },
+  {
+    "question": "What is the currency of India?",
+    "options": ["Dollar", "Pound", "Rupee", "Euro"],
+    "answer": "Rupee"
+  },
+  {
+    "question": "Which state in India is known for its backwaters?",
+    "options": ["Goa", "Kerala", "Tamil Nadu", "Karnataka"],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Who won the Nobel Prize in Physics in 2022 from India?",
+    "options": [
+      "Amartya Sen",
+      "Venkatraman Ramakrishnan",
+      "C. V. Raman",
+      "None"
+    ],
+    "answer": "None"
+  },
+  {
+    "question": "Which Indian state has the largest population?",
+    "options": ["Bihar", "Maharashtra", "Uttar Pradesh", "West Bengal"],
+    "answer": "Uttar Pradesh"
+  },
+  {
+    "question": "Which classical dance form is associated with Kerala?",
+    "options": ["Bharatanatyam", "Kathak", "Odissi", "Kathakali"],
+    "answer": "Kathakali"
+  },
+  {
+    "question": "Which river flows through the city of Varanasi?",
+    "options": ["Yamuna", "Godavari", "Narmada", "Ganga"],
+    "answer": "Ganga"
+  },
+  {
+    "question": "Who is the founder of the Indian National Congress?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "A. O. Hume",
+      "Dadabhai Naoroji",
+      "Gopal Krishna Gokhale"
+    ],
+    "answer": "A. O. Hume"
+  },
+  {
+    "question": "Which Indian festival is celebrated to mark the harvest season?",
+    "options": ["Diwali", "Holi", "Makar Sankranti", "Raksha Bandhan"],
+    "answer": "Makar Sankranti"
+  },
+  {
+    "question": "Which city is known as the financial capital of India?",
+    "options": ["Chennai", "Kolkata", "Delhi", "Mumbai"],
+    "answer": "Mumbai"
+  },
+  {
+    "question": "Who is the current Chief Justice of India as of 2024?",
+    "options": [
+      "N. V. Ramana",
+      "Ranjan Gogoi",
+      "D. Y. Chandrachud",
+      "S. A. Bobde"
+    ],
+    "answer": "D. Y. Chandrachud"
+  },
+  {
+    "question": "Which of the following is a union territory of India?",
+    "options": ["Mizoram", "Goa", "Puducherry", "Tripura"],
+    "answer": "Puducherry"
+  },
+  {
+    "question": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": [
+      "Mahatma Gandhi",
+      "B. R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "answer": "B. R. Ambedkar"
+  },
+  {
+    "question": "Which Indian state is famous for the Ajanta and Ellora caves?",
+    "options": ["Karnataka", "Gujarat", "Maharashtra", "Madhya Pradesh"],
+    "answer": "Maharashtra"
+  },
+  {
+    "question": "Which is the longest river in India?",
+    "options": ["Ganga", "Yamuna", "Brahmaputra", "Godavari"],
+    "answer": "Ganga"
+  },
+  {
+    "question": "Who is the current Governor of the Reserve Bank of India as of 2024?",
+    "options": [
+      "Urjit Patel",
+      "Raghuram Rajan",
+      "Shaktikanta Das",
+      "Duvvuri Subbarao"
+    ],
+    "answer": "Shaktikanta Das"
+  },
+  {
+    "question": "Which Indian state is known for its classical dance form, Kuchipudi?",
+    "options": ["Tamil Nadu", "Karnataka", "Odisha", "Andhra Pradesh"],
+    "answer": "Andhra Pradesh"
+  },
+  {
+    "question": "Who was the first Indian woman to win a Nobel Prize?",
+    "options": [
+      "Indira Gandhi",
+      "Mother Teresa",
+      "Sarojini Naidu",
+      "Kalpana Chawla"
+    ],
+    "answer": "Mother Teresa"
+  },
+  {
+    "question": "Which city is the capital of the Indian state of Gujarat?",
+    "options": ["Ahmedabad", "Surat", "Rajkot", "Gandhinagar"],
+    "answer": "Gandhinagar"
+  },
+  {
+    "question": "Which Indian state is famous for the temple city of Khajuraho?",
+    "options": ["Rajasthan", "Madhya Pradesh", "Uttar Pradesh", "Gujarat"],
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "question": "What is the name of the Indian Mars Orbiter Mission?",
+    "options": ["Chandrayaan", "Mangalyaan", "Astrosat", "Aditya-L1"],
+    "answer": "Mangalyaan"
+  },
+  {
+    "question": "Who is the author of the book 'The God of Small Things'?",
+    "options": [
+      "Arundhati Roy",
+      "Jhumpa Lahiri",
+      "Chetan Bhagat",
+      "Kiran Desai"
+    ],
+    "answer": "Arundhati Roy"
+  },
+  {
+    "question": "Which state is known as the 'Spice Garden of India'?",
+    "options": ["Kerala", "Tamil Nadu", "Andhra Pradesh", "West Bengal"],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Which Indian cricketer has scored the highest number of international centuries?",
+    "options": [
+      "Sourav Ganguly",
+      "Virat Kohli",
+      "Rahul Dravid",
+      "Sachin Tendulkar"
+    ],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "question": "Who is the current Minister of Home Affairs in India as of 2024?",
+    "options": [
+      "Rajnath Singh",
+      "Amit Shah",
+      "Nirmala Sitharaman",
+      "Piyush Goyal"
+    ],
+    "answer": "Amit Shah"
+  },
+  {
+    "question": "Which city is known as the Pink City of India?",
+    "options": ["Udaipur", "Jodhpur", "Jaipur", "Bikaner"],
+    "answer": "Jaipur"
+  },
+  {
+    "question": "Which Indian leader is known as the 'Iron Man of India'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Sardar Patel",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose"
+    ],
+    "answer": "Sardar Patel"
+  },
+  {
+    "question": "Which is the highest civilian award in India?",
+    "options": [
+      "Padma Shri",
+      "Padma Bhushan",
+      "Padma Vibhushan",
+      "Bharat Ratna"
+    ],
+    "answer": "Bharat Ratna"
+  },
+  {
+    "question": "Which state in India is famous for the Valley of Flowers National Park?",
+    "options": [
+      "Himachal Pradesh",
+      "Sikkim",
+      "Uttarakhand",
+      "Arunachal Pradesh"
+    ],
+    "answer": "Uttarakhand"
+  },
+  {
+    "question": "Who is the current President of India?",
+    "options": [
+      "Ram Nath Kovind",
+      "Narendra Modi",
+      "Amit Shah",
+      "Sonia Gandhi"
+    ],
+    "answer": "Ram Nath Kovind"
+  },
+  {
+    "question": "In which state is the Statue of Unity located?",
+    "options": ["Maharashtra", "Gujarat", "Tamil Nadu", "Karnataka"],
+    "answer": "Gujarat"
+  },
+  {
+    "question": "What is the national currency of India?",
+    "options": ["Rupee", "Yuan", "Euro", "Dollar"],
+    "answer": "Rupee"
+  },
+  {
+    "question": "Which city is known as the IT capital of India?",
+    "options": ["Delhi", "Mumbai", "Bangalore", "Chennai"],
+    "answer": "Bangalore"
+  },
+  {
+    "question": "What is the highest civilian award in India?",
+    "options": [
+      "Padma Bhushan",
+      "Bharat Ratna",
+      "Padma Vibhushan",
+      "Arjuna Award"
+    ],
+    "answer": "Bharat Ratna"
+  },
+  {
+    "question": "Which is the longest river in India?",
+    "options": ["Ganga", "Brahmaputra", "Godavari", "Krishna"],
+    "answer": "Ganga"
+  },
+  {
+    "question": "What is the national game of India?",
+    "options": ["Cricket", "Hockey", "Kabaddi", "Football"],
+    "answer": "Hockey"
+  },
+  {
+    "question": "When did India gain independence from British rule?",
+    "options": ["1945", "1947", "1950", "1962"],
+    "answer": "1947"
+  },
+  {
+    "question": "Which mountain range forms the northern border of India?",
+    "options": [
+      "Western Ghats",
+      "Eastern Ghats",
+      "Himalayas",
+      "Aravalli Range"
+    ],
+    "answer": "Himalayas"
+  },
+  {
+    "question": "What is the name of India's space agency?",
+    "options": ["ISRO", "DRDO", "BARC", "NAL"],
+    "answer": "ISRO (Indian Space Research Organisation)"
+  },
+  {
+    "question": "What percentage of India's population is Hindu?",
+    "options": ["60%", "70%", "80%", "90%"],
+    "answer": "80%"
+  },
+  {
+    "question": "What is the capital of the state of Kerala?",
+    "options": ["Thiruvananthapuram", "Kochi", "Calicut", "Kannur"],
+    "answer": "Thiruvananthapuram"
+  },
+  {
+    "question": "What is the official language of India?",
+    "options": [
+      "Hindi",
+      "English",
+      "Sanskrit",
+      "There is no official language"
+    ],
+    "answer": "Hindi (alongside English)"
+  },
+  {
+    "question": "What is the largest state in India by area?",
+    "options": ["Rajasthan", "Madhya Pradesh", "Maharashtra", "Uttar Pradesh"],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "What is the most populous city in India?",
+    "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "answer": "Mumbai"
+  },
+  {
+    "question": "What is a major agricultural product of India?",
+    "options": ["Wheat", "Rice", "Cotton", "Coffee"],
+    "answer": "Rice"
+  },
+  {
+    "question": "What is a famous Indian festival celebrated with lights?",
+    "options": ["Holi", "Diwali", "Dussehra", "Pongal"],
+    "answer": "Diwali"
+  },
+  {
+    "question": "What is the name of India's Prime Minister?",
+    "options": [
+      "Ram Nath Kovind",
+      "Narendra Modi",
+      "Amit Shah",
+      "Sonia Gandhi"
+    ],
+    "answer": "Narendra Modi"
+  },
+  {
+    "question": "Who is the Chief Minister of Uttar Pradesh?",
+    "options": [
+      "Yogi Adityanath",
+      "Arvind Kejriwal",
+      "Mamata Banerjee",
+      "Uddhav Thackeray"
+    ],
+    "answer": "Yogi Adityanath"
+  },
+  {
+    "question": "In which year did India launch its first moon mission, Chandrayaan-1?",
+    "options": ["2003", "2008", "2013", "2019"],
+    "answer": "2008"
+  },
+  {
+    "question": "What is the nickname of the Indian cricket team?",
+    "options": ["The Tigers", "The Lions", "The Men in Blue", "The Cheetahs"],
+    "answer": "The Men in Blue"
+  },
+  {
+    "question": "Which state is famous for its backwaters?",
+    "options": ["Goa", "Kerala", "Tamil Nadu", "Andhra Pradesh"],
+    "answer": "Kerala"
+  },
+  {
+    "question": "What is the largest freshwater lake in India?",
+    "options": ["Chilka Lake", "Pangong Tso", "Loktak Lake", "Dal Lake"],
+    "answer": "Chilka Lake"
+  },
+  {
+    "question": "What is the national animal of India?",
+    "options": ["Tiger", "Elephant", "Lion", "Rhinoceros"],
+    "answer": "Tiger"
+  },
+  {
+    "question": "What is the national bird of India?",
+    "options": ["Peacock", "Parrot", "Mynah", "Kingfisher"],
+    "answer": "Peacock"
+  },
+  {
+    "question": "What is the currency symbol for the Indian Rupee?",
+    "options": ["₹", "$", "€", "¥"],
+    "answer": "₹"
+  },
+  {
+    "question": "Which state is known as the Spice Coast of India?",
+    "options": ["Karnataka", "Kerala", "Gujarat", "Maharashtra"],
+    "answer": "Kerala"
+  },
+  {
+    "question": "What is a traditional Indian garment for women?",
+    "options": ["Sari", "Lehenga", "Salwar Kameez", "Churidar"],
+    "answer": "Sari"
+  },
+  {
+    "question": "What is a traditional Indian art form known for its colorful storytelling?",
+    "options": ["Bharatanatyam", "Kathakali", "Odissi", "Kuchipudi"],
+    "answer": "Kathakali"
+  },
+  {
+    "question": "What is the main language spoken in South India?",
+    "options": ["Hindi", "Marathi", "Tamil", "Telugu"],
+    "answer": "Tamil"
+  },
+  {
+    "question": "What is a major river system in South India?",
+    "options": [
+      "Indus River",
+      "Ganga-Yamuna River System",
+      "Godavari-Krishna River System",
+      "Narmada-Tapi River System"
+    ],
+    "answer": "Godavari-Krishna River System"
+  },
+  {
+    "question": "What is a famous monument of Mughal architecture in India?",
+    "options": ["Taj Mahal", "Red Fort", "Qutub Minar", "Hawa Mahal"],
+    "answer": "Taj Mahal"
+  },
+  {
+    "question": "What is the year India implemented the Goods and Services Tax (GST)?",
+    "options": ["2010", "2015", "22017", "2020"],
+    "answer": "2017"
+  },
+  {
+    "question": "What is the name of India's stock exchange?",
+    "options": ["BSE", "NSE", "MCX", "NCDEX"],
+    "answer": "BSE (Bombay Stock Exchange) or NSE (National Stock Exchange)"
+  },
+  {
+    "question": "What is a major cash crop grown in India?",
+    "options": ["Sugarcane", "Cotton", "Tea", "Coffee"],
+    "answer": "Sugarcane"
+  },
+  {
+    "question": "What is a popular Indian board game involving strategy?",
+    "options": ["Carrom", "Ludo", "Snakes and Ladders", "Chess"],
+    "answer": "Chess"
+  },
+  {
+    "question": "What is a traditional Indian martial art form?",
+    "options": ["Kalaripayattu", "Mallakhamb", "Gatka", "Silambam"],
+    "answer": "Kalaripayattu"
+  },
+  {
+    "question": "What is the largest religious pilgrimage in the world? (Held in India)",
+    "options": [
+      "Kumbh Mela",
+      "Hajj",
+      "Christmas Mass",
+      "Easter Sunday Service"
+    ],
+    "answer": "Kumbh Mela"
+  }
+]
